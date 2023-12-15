@@ -1,5 +1,5 @@
 # -*- coding; utf-8 -*-
-
+##test git
 #正向匹配
 def max_forward_cut(sentence):
     cutlist = []
